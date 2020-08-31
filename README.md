@@ -1,5 +1,5 @@
 ### Hi there Ankush Here 👋
-<img src="https://i.pinimg.com/236x/65/44/f3/6544f3e14ff27f66f3a80665e1e35d9c.jpg"/>
+<IMG SRC="https://media.tenor.com/images/5a033f793dcbfc8558388f2c9c0b0fd8/tenor.gif">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in 9th grade a ( High School Student ).
