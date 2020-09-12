@@ -16,13 +16,7 @@
 <a href="https://www.codepen.io/anproghub">
   <img align="left" alt="Ankush's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-
- I'm [Ankush Chauhan](www.google.com), a High School Web Developer 🚀 from India currently, I'm studying in 9th grade from [P N N Mohan Public School(https://uniformapp.in/padamshree-nn-mohan-public-school-ghaziabad)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying in 9th grade a ( High School Student ).
-- 🌱 I’m currently learning Programming ReactJS, Python, JavaScript, Flutter.
-- 👯 I’m looking to collaborate with Google, Amazon, Apple, Facebook, NetFlix ..
-- 📫 How to reach me:🤗
------- Gmail :- ac.ankushchauhan.2006@gmail.com \
+<br>
+ I'm [Ankush Chauhan](www.google.com), a High School Web Developer 🚀 from India currently, I'm studying in 9th grade who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
+An Enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy.
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
