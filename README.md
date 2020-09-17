@@ -47,7 +47,7 @@ super easy.
 <code><img height="35" src="https://user-images.githubusercontent.com/49339/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/unity-5-555544.png"></code>
 <code><img height="35" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
-<code><img height="35" src="https://lh3.googleusercontent.com/proxy/aAJzmMVcv6WSNWHo4rEXS8AU0CATgjOb65jhhKii5qCt1gGbRL2X8HdYU9_LYMtUxhLw7Aih-A_KctaCQSOsQsMHD35b5y1WjT71xV2IZffLkcCOu48"></code>
+<code><img height="35" src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow.png"></code>
 <code><img height="35" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png"></code>
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png"></code>
@@ -64,6 +64,16 @@ Golang       45 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="300" />
+
+ 💭 **My Dream Companies:**<br>
+<code><img height="80" src="https://blog.hubspot.com/hubfs/image8-2.jpg"></code>
+<code><img height="80" src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250"></code>
+<code><img height="80" src="https://lh3.googleusercontent.com/proxy/ZpYhDfvZqJVqfITgqCA4AzvKL11EBEh8feG_f9NUAwRcKKtka8_T-RyMLe9_huU4Gfxp41XBEql3eBlx0t_Bn4KgGhxea-RnDEYuZUzUN4Qbk59dHnk5w9OsT5Ihi7CTQ06HzKbHcqkynIfkjcJVSkeBjcM"></code>
+<code><img height="80" src="https://1000logos.net/wp-content/uploads/2016/10/Colors-Amazon-Logo.jpg"></code>
+<code><img height="80" src="https://lh3.googleusercontent.com/proxy/5Z1wBC5nu8nH-4Yuo4zcUI-wswuLfgWgaCkwtGPM7vkt3a9WzIMmPxl3eOi6rg2B67XDLVMFGmMUm4UMJ_5I77IdBG8OjGc6XnRDzZvbt2XUe3rkl3vinA"></code>
+<code><img height="80" src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/12f213e1-t1.jpg"></code>
+
+
+<img align="bottom-left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="450" height="300" />
 
 
