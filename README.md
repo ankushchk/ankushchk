@@ -68,7 +68,7 @@ Golang       45 mins         ▓░░░░░░░░░░░░░░░░
  💭 **My Dream Companies:**<br>
 <code><img height="80" src="https://blog.hubspot.com/hubfs/image8-2.jpg"></code>
 <code><img height="80" src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250"></code>
-<code><img height="80" src="https://lh3.googleusercontent.com/proxy/6LI3kQ_d8LhW6zWShWt61YiLLWaImKCTZT1d-0Ebk2-gIArEEWUw0Lji-GsqqQdQO8BjEk4_RJllAlw5bq5BIugWr99qR16VtRMx8HQ4TXWSA9gJ-zQfsg"></code>
+<code><img height="80" src="https://lh3.googleusercontent.com/proxy/izyLhPIh4jOPSrvtYhx4nlHy78IDDUyO9DEMkRs6Y4PaCA41rtonPDjQSLQpF3Q2wXFrXXUTaGD78gceIZJ8lL6Q-PuxqlTbdNkOV0zmOYa0jcFPhyl26A"></code>
 <code><img height="80" src="https://1000logos.net/wp-content/uploads/2016/10/Colors-Amazon-Logo.jpg"></code>
 <code><img height="80" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74"></code>
 <code><img height="80" src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/12f213e1-t1.jpg"></code>
