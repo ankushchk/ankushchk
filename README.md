@@ -53,19 +53,19 @@ super easy.
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png"></code>
 
 
-📊 **This Week I Spent My Time On:**
+📊 **This Week I Spent My Time On:**⏰🕜
 <!--START_SECTION:waka-->
 ```text
 Javscript    13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
-CSS          5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Python       4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
+React        5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
+CSS          4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
 HTML         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 Golang       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 <!--END_SECTION:waka-->
 
 
- 💭 **My Dream Companies:**<br>
+ 💭🌇🗼 **My Dream Companies:** 🌇🗼<br>
 <code><img height="80" src="https://blog.hubspot.com/hubfs/image8-2.jpg"></code>
 <code><img height="80" src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250"></code>
 <code><img height="80" src="https://lh3.googleusercontent.com/proxy/izyLhPIh4jOPSrvtYhx4nlHy78IDDUyO9DEMkRs6Y4PaCA41rtonPDjQSLQpF3Q2wXFrXXUTaGD78gceIZJ8lL6Q-PuxqlTbdNkOV0zmOYa0jcFPhyl26A"></code>
