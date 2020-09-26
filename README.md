@@ -68,12 +68,13 @@ Golang       45 mins         ▓░░░░░░░░░░░░░░░░
  💭🌇🗼 **My Dream Companies:** 🌇🗼<br>
 <code><img height="80" src="https://blog.hubspot.com/hubfs/image8-2.jpg"></code>
 <code><img height="80" src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250"></code>
-<code><img height="80" src="https://lh3.googleusercontent.com/proxy/izyLhPIh4jOPSrvtYhx4nlHy78IDDUyO9DEMkRs6Y4PaCA41rtonPDjQSLQpF3Q2wXFrXXUTaGD78gceIZJ8lL6Q-PuxqlTbdNkOV0zmOYa0jcFPhyl26A"></code>
+<code><img height="80" src="https://www.iconfinder.com/data/icons/picons-social/57/56-apple-512.png"></code>
 <code><img height="80" src="https://1000logos.net/wp-content/uploads/2016/10/Colors-Amazon-Logo.jpg"></code>
 <code><img height="80" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74"></code>
 <code><img height="80" src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/12f213e1-t1.jpg"></code>
 
+▶️▶️▶️ **Top 5 Youtubers which do I prefer:** ▶️▶️▶️
+<img align="left" src="https://seeklogo.net/wp-content/uploads/2017/08/YouTube-logo-1-512x512.png" width="100" height="100" />
 
-<img align="bottom-left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="450" height="300" />
 
 
