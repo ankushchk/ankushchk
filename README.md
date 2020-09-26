@@ -76,20 +76,20 @@ Golang       45 mins         ▓░░░░░░░░░░░░░░░░
  ▶️▶️▶️ **Top 5 Youtubers which do I prefer:** ▶️▶️▶️
 <img align="center" src="https://seeklogo.net/wp-content/uploads/2017/08/YouTube-logo-1-512x512.png" width="100" height="100" />
 
-<img align="left" src="https://yt3.ggpht.com/a/AATXAJwFt03RAznOsPwlfo5c1kW1rp-1o3Xgpw9MNreQMQ=s900-c-k-c0xffffffff-no-rj-mo" width="100" height="100" />
 <a href = "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" >FreeCodeCamp.org<a/>
+<img align="center" src="https://yt3.ggpht.com/a/AATXAJwFt03RAznOsPwlfo5c1kW1rp-1o3Xgpw9MNreQMQ=s900-c-k-c0xffffffff-no-rj-mo" width="100" height="100" />
   <br>
-<img align="left" src="https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCWv7vMbMWH4-V0ZXdmDpPBA.jpg" width="100" height="100" />
-<a href = "https://www.youtube.com/user/programmingwithmosh" >Programming with Mosh<a/>
+  <a href = "https://www.youtube.com/user/programmingwithmosh" >Programming with Mosh<a/>
+<img align="center" src="https://res.cloudinary.com/sl0/image/upload/v2/external-thumbnails/UCWv7vMbMWH4-V0ZXdmDpPBA.jpg" width="100" height="100" />
   <br>
-  <img align="left" src="https://coursenames.com/wp-content/uploads/2019/12/Derek-Banas.png" width="100" height="100" />
-<a href = "https://www.youtube.com/user/derekbanas" >Derek Banas<a/>
+  <a href = "https://www.youtube.com/user/derekbanas" >Derek Banas<a/>
+  <img align="center" src="https://coursenames.com/wp-content/uploads/2019/12/Derek-Banas.png" width="100" height="100" />
   <br>
-  <img align="left" src="https://yt3.ggpht.com/a/AATXAJwE3B3SOiKZ267YL2x7XmRLAZgfjgrrb-N4FA=s900-c-k-c0xffffffff-no-rj-mo" width="100" height="100" />
-<a href = "https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g" >Clément Mihailescu<a/>
+  <a href = "https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g" >Clément Mihailescu<a/>
+  <img align="center" src="https://yt3.ggpht.com/a/AATXAJwE3B3SOiKZ267YL2x7XmRLAZgfjgrrb-N4FA=s900-c-k-c0xffffffff-no-rj-mo" width="100" height="100" />
   <br>
-  <img align="left" src="https://yt3.ggpht.com/a/AATXAJydjgDHqK3vz4iHkrPZjHSsjwh1aPsqOwxHCZ_ISA=s900-c-k-c0xffffffff-no-rj-mo" width="100" height="100" />
-<a href = "https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ" >Clever Programmer<a/>
+  <a href = "https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ" >Clever Programmer<a/>
+  <img align="center" src="https://yt3.ggpht.com/a/AATXAJydjgDHqK3vz4iHkrPZjHSsjwh1aPsqOwxHCZ_ISA=s900-c-k-c0xffffffff-no-rj-mo" width="100" height="100" />
   <br>
 
 
