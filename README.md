@@ -17,7 +17,7 @@
   <img align="top-right" alt="Ankush's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 <br>
-I'm [Ankush Chauhan](https://ankush-chauhan.web.app/) a High School Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
+I'm Ankush Chauhan a High School Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
 An Enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is
 super easy.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -51,6 +51,7 @@ super easy.
 <code><img height="35" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png"></code>
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png"></code>
+<code><img height="35" src="https://material-ui.com/static/logo.png"></code>
 
 
 📊 **This Week I Spent My Time On:**⏰🕜
@@ -72,31 +73,6 @@ Python       45 mins         ▓░░░░░░░░░░░░░░░░
 <code><img height="70" src="https://1000logos.net/wp-content/uploads/2016/10/Colors-Amazon-Logo.jpg"></code>
 <code><img height="70" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74"></code>
 <code><img height="70" src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/12f213e1-t1.jpg"></code>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
   <!--  ▶️▶️▶️ **Top 5 Youtubers which do I prefer:** ▶️▶️▶️
