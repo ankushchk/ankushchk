@@ -66,7 +66,8 @@ Python       45 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
- 💭🌇🗼 **My Dream Companies:** 🌇🗼<br>
+ 💭🌇🗼 **My Dream Companies:** 🌇🗼
+<br />
 <code><img height="70" src="https://blog.hubspot.com/hubfs/image8-2.jpg"></code>
 <code><img height="70" src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250"></code>
 <code><img height="70" src="https://www.iconfinder.com/data/icons/picons-social/57/56-apple-512.png"></code>
