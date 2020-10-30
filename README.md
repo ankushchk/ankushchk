@@ -29,7 +29,7 @@ super easy.
 - 🌱 I’m currently learning ReactJS and C++ ; 
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
-- 📝[Resume](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
+- 📝[Resume](https://drive.google.com/file/d/1zSgTR5uA5sGPQLBv90gP6ANHDYSVufHU/view?usp=sharing) ;
   
   
 
