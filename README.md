@@ -28,7 +28,8 @@ super easy.
 
 - 💻 I’m currently working on something cool :wink: ;
 - 🌱 I’m currently learning ReactJS and C++ ; 
-- 👣 Following the path to became a **MERN Stack JavaScript Developer** <hr />
+- 👣 Following the path to became a **MERN Stack JavaScript Developer**;
+
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
 - 📝[Resume](https://drive.google.com/file/d/1zSgTR5uA5sGPQLBv90gP6ANHDYSVufHU/view?usp=sharing) ;
@@ -75,3 +76,5 @@ Python       45 mins         ▓░░░░░░░░░░░░░░░░
 <code><img height="50" src="https://1000logos.net/wp-content/uploads/2016/10/Colors-Amazon-Logo.jpg"></code>
 <code><img height="50" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74"></code>
 <code><img height="50" src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/12f213e1-t1.jpg"></code>
+
+<hr />
