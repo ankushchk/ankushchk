@@ -17,21 +17,22 @@
   <img align="top-right" alt="Ankush's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 <br>
+<hr />
 I'm Ankush Chauhan a High School Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
 An Enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is
 super easy.
 <img align="right" alt="GIF" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/5eKX.gif?raw=true" width="470" height="320" />
 
 
-**Talking about Personal Stuffs:**
+**My Personal Information**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink: ;
+- 💻 I’m currently working on something cool :wink: ;
 - 🌱 I’m currently learning ReactJS and C++ ; 
+- 👣 Following the path to became a **MERN Stack JavaScript Developer** <hr />
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
 - 📝[Resume](https://drive.google.com/file/d/1zSgTR5uA5sGPQLBv90gP6ANHDYSVufHU/view?usp=sharing) ;
-  
-  
+
 
 **Languages and Tools:**  
 
