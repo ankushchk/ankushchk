@@ -36,8 +36,6 @@ super easy.
 - 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
 - 📝[Resume](https://drive.google.com/file/d/1zSgTR5uA5sGPQLBv90gP6ANHDYSVufHU/view?usp=sharing) ;
 
-<br />
-
 <img src="https://github-readme-stats.vercel.app/api?username=An-prog-hub&theme=onedark&show_icons=true"/>
 
 
