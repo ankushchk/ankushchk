@@ -16,7 +16,7 @@
 <a href="https://www.codepen.io/anproghub">
   <img align="left" alt="Ankush's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-  <a href="ac.ankushchauhan.2006@gmail.com">
+  <a href="mailto:ac.ankushchauhan.2006@gmail.com">
   <img align="left" alt="Ankush's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <hr />
@@ -31,7 +31,7 @@ super easy.
 - 💻 I’m currently working on something cool :wink: ;
 - 🌱 I’m currently learning ReactJS and C++ ; 
 - 👣 Following the path to became a **MERN Stack JavaScript Developer**;
-
+- 😄 Pronouns: He/Him
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
 - 📝[Resume](https://drive.google.com/file/d/1zSgTR5uA5sGPQLBv90gP6ANHDYSVufHU/view?usp=sharing) ;
@@ -69,6 +69,9 @@ Python       45 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=An-prog-hub&theme=onedark&show_icons=true"/>
+</hr>
 
  💭🌇🗼 **My Dream Companies:** 🌇🗼
 <br />
