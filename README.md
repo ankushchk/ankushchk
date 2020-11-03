@@ -10,13 +10,15 @@
 <a href="https://www.linkedin.com/ankush-chauhan-590b5b1ab/">
   <img align="left" alt="Ankush's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://gitlab.com/An-prog-hub">
+  <img align="left" alt="Ankush's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
 <a href="https://www.youtube.com/channel/UC9upzF9wBH5CGvf8dSIp-aw?disable_polymer=true">
   <img align="left" alt="Ankush's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://www.codepen.io/anproghub">
-  <img align="top-right" alt="Ankush's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+  <img align="left" alt="Ankush's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-<br>
 <hr />
 I'm Ankush Chauhan a High School Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
 An Enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is
