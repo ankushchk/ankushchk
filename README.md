@@ -1,9 +1,6 @@
 ### Hey there , I'm Ankush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <img align="right" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/logo.png?raw=true" width="50px" height="50px"/>
 <br>
-  <a href="https://discord.gg/GXc8Y7p">
-  <img align="left" alt="Ankush's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 <a href="https://twitter.com/AnkushC41962223">
   <img align="left" alt="Ankush's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,6 +15,9 @@
 </a>
 <a href="https://www.codepen.io/anproghub">
   <img align="left" alt="Ankush's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+</a>
+  <a href="ac.ankushchauhan.2006@gmail.com">
+  <img align="left" alt="Ankush's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <hr />
 I'm Ankush Chauhan a High School Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
