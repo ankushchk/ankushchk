@@ -4,7 +4,7 @@
 <a href="https://twitter.com/AnkushC41962223">
   <img align="left" alt="Ankush's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/ankush-chauhan-590b5b1ab/">
+<a href="https://www.linkedin.com/ankushchauhan14">
   <img align="left" alt="Ankush's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://gitlab.com/An-prog-hub">
