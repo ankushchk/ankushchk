@@ -74,8 +74,7 @@ Python       45 mins         ▓░░░░░░░░░░░░░░░░
 
 
  💭🌇🗼 **My Dream Companies:** 🌇🗼
- 
-<br />
+
 <code><img height="50" src="https://blog.hubspot.com/hubfs/image8-2.jpg"></code>
 <code><img height="50" src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250"></code>
 <code><img height="50" src="https://www.iconfinder.com/data/icons/picons-social/57/56-apple-512.png"></code>
