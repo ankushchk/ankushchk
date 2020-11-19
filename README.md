@@ -37,7 +37,7 @@ super easy.
 - 📝[Resume](https://drive.google.com/file/d/1zSgTR5uA5sGPQLBv90gP6ANHDYSVufHU/view?usp=sharing) ;
 
 <img src="https://github-readme-stats.vercel.app/api?username=An-prog-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-prog-hub&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-prog-hub&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 
 
 **Languages and Tools:**  
