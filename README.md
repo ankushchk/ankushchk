@@ -19,7 +19,7 @@
   <a href="mailto:ac.ankushchauhan.2006@gmail.com">
   <img align="left" alt="Ankush's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
-
+<hr />
 I'm Ankush Chauhan a High School Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
 An Enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is
 super easy.
