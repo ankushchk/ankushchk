@@ -72,14 +72,4 @@ Python       45 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
- 💭🌇🗼 **My Dream Companies:** 🌇🗼
-
-<code><img height="50" src="https://blog.hubspot.com/hubfs/image8-2.jpg"></code>
-<code><img height="50" src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250"></code>
-<code><img height="50" src="https://www.iconfinder.com/data/icons/picons-social/57/56-apple-512.png"></code>
-<code><img height="50" src="https://1000logos.net/wp-content/uploads/2016/10/Colors-Amazon-Logo.jpg"></code>
-<code><img height="50" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74"></code>
-<code><img height="50" src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/12f213e1-t1.jpg"></code>
-
 <hr />
