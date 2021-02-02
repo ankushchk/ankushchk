@@ -20,8 +20,8 @@
   <img align="left" alt="Ankush's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <hr />
-I'm Ankush Chauhan a High School Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
-An Enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is
+I'm Ankush Chauhan a High School Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves programming and interacting with the people of similar interest so that I can develop myself into a better version. 
+An enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is
 super easy.
 <img align="right" alt="GIF" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/gif.gif?raw=true" width="390" height="270" />
 <br />
@@ -34,7 +34,7 @@ super easy.
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
-- 📝[Resume](https://drive.google.com/file/d/1zSgTR5uA5sGPQLBv90gP6ANHDYSVufHU/view?usp=sharing) ;
+- 📝[Resume](https://drive.google.com/file/d/1zjifC0x73FRbEd0gAigR-Ku7AqMcQ4Jl/view) ;
 
 <img padding="10px" src="https://github-readme-stats.vercel.app/api?username=An-prog-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-prog-hub&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
