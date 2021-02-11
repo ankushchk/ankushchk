@@ -20,7 +20,7 @@
   <img align="left" alt="Ankush's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <hr />
-I'm Ankush Chauhan a High School Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves programming and interacting with the people of similar interest so that I can develop myself into a better version. 
+I'm Ankush Chauhan a Full Stack Web Developer 🚀 from India currently, I'm studying in 9th grade. Who loves programming and interacting with the people of similar interest so that I can develop myself into a better version. 
 An enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is
 super easy.
 <img align="right" alt="GIF" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/gif.gif?raw=true" width="390" height="270" />
