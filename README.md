@@ -71,5 +71,6 @@ HTML         1 hr 8 mins     █░░░░░░░░░░░░░░░░
 Python       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 <!--END_SECTION:waka-->
+<!--ending-->
 
 <hr />
