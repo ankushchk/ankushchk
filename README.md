@@ -38,7 +38,7 @@ super easy.
 
 **Support Me 🙏**
 
-<a href="https://paypal.me/ankushchauhan1205">
+<a href="https://paypal.me/anjalichauhanIN">
 <img src="https://www.freepnglogos.com/uploads/paypal-logo-png-7.png" width="80" height="80"/>
 </a>
 
