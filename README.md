@@ -1,7 +1,7 @@
 ### Hey there , I'm Ankush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <img align="right" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/logo.png?raw=true" width="50px" height="50px"/>
 <br>
-<a href="https://twitter.com/AnkushC41962223">
+<a href="https://twitter.com/anproghub">
   <img align="left" alt="Ankush's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ankushchauhan14">
