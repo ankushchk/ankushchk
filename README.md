@@ -64,7 +64,13 @@ super easy.
 <code><img height="35" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png"></code>
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png"></code>
-<code><img height="35" src="https://material-ui.com/static/logo.png"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
+<code><img height="35" src="https://www.appcoda.com/wp-content/uploads/2015/04/react-native.png"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
+<code><img height="35" src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png"></code>
+
 
 
 📊 **This Week I Spent My Time On:** ⏰🕜
