@@ -69,17 +69,18 @@ super easy.
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 <code><img height="35" src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png"></code>
-
+<code><img height="35" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
+<code><img height="35" src="https://miro.medium.com/max/1400/0*yqbRInqX0ZRUlVS0"></code>
 
 
 📊 **This Week I Spent My Time On:** ⏰🕜
 <!--START_SECTION:waka-->
 ```text
 React        13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
-JavaScript   5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-CSS          4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
-HTML         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Python       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+PostgreSQL   5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
+Solidity     4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Kotlin       1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Rust         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 <!--END_SECTION:waka-->
 <!--ending-->
