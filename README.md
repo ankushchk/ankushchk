@@ -37,13 +37,20 @@ super easy.
 
 **Support Me 🙏**
 
+[![paypal.me/anjalichauhanIN](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anjalichauhanIN) [![buymeacoffee.com/iamankush](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iamankush)
+
+<!-- 
 <a href="https://paypal.me/anjalichauhanIN">
 <img src="https://www.freepnglogos.com/uploads/paypal-logo-png-7.png" width="80" height="80"/>
+</a>
+<h5>OR</h5>
+<a href="https://www.buymeacoffee.com/iamankush">
+<img src="http://static1.squarespace.com/static/5bb6a4892727be2227914dad/t/5e276fee4ca7987142be03cc/1579642866737/BuyMeACoffee_Red%402x.png" width="290" height="80"/>
 </a>
 
 <img padding="10px" src="https://github-readme-stats.vercel.app/api?username=An-prog-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-prog-hub&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-
+-->
 
 **Languages and Tools:**  
 
