@@ -37,7 +37,8 @@ super easy.
 
 **Support Me 🙏**
 
-[![paypal.me/anjalichauhanIN](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anjalichauhanIN) [![buymeacoffee.com/iamankush](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iamankush)
+- [![paypal.me/anjalichauhanIN](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anjalichauhanIN)
+- [![buymeacoffee.com/iamankush](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iamankush)
 
 <!-- 
 <a href="https://paypal.me/anjalichauhanIN">
