@@ -20,9 +20,8 @@
   <img align="left" alt="Ankush's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <hr />
-I'm Ankush Chauhan a Full Stack Web Developer 🚀 from India currently, I'm studying in 10th grade. Who loves programming and interacting with the people of similar interest so that I can develop myself into a better version. 
-An enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is
-super easy.
+  15, building [cryptokaro](https://www.cryptokaro.in) , [TKS](https://tks.world) Fellow, prev build Dogemedia (exit 🔙)
+  <br/>
 <img align="right" alt="GIF" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/gif.gif?raw=true" width="390" height="270" />
 <br />
 
@@ -33,9 +32,9 @@ super easy.
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankushchauhan14) ;
-- 📝[Resume](https://drive.google.com/file/d/1zjifC0x73FRbEd0gAigR-Ku7AqMcQ4Jl/view) ;
+- 📝[Resume](https://linkedin.in/in/ankushchauhan14) ;
 
-**Support Me 🙏**
+**Support Me 🌈**
 
 - [![paypal.me/anjalichauhanIN](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anjalichauhanIN)
 - [![buymeacoffee.com/iamankush](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iamankush)
