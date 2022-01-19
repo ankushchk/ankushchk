@@ -28,7 +28,7 @@
 **My Personal Information**
 
 - 💻 I’m currently working on something cool :wink: ;
-- 🌱 I’m currently learning ReactJS and C++ ; 
+- 🌱 I’m currently learning Rust and Typescript 🟦  ; 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankushchauhan14) ;
