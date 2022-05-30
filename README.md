@@ -1,23 +1,21 @@
 ### Hey there , I'm <a href="https://linktr.ee/ankushchauhan">Ankush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <img align="right" src="https://media0.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="80px" height="80px"/>
 <br>
+<!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 <a href="https://twitter.com/anproghub">
-  <img align="left" alt="Ankush's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ankush's Twitter | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" />
 </a>
 <a href="https://www.linkedin.com/in/ankushchauhan14">
-  <img align="left" alt="Ankush's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ankush's Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />
 </a>
 <a href="https://gitlab.com/An-prog-hub">
-  <img align="left" alt="Ankush's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+  <img align="left" alt="Ankush's Gitlab" width="22px" src="https://www.iconsdb.com/icons/preview/white/github-xxl.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC9upzF9wBH5CGvf8dSIp-aw?disable_polymer=true">
-  <img align="left" alt="Ankush's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://www.codepen.io/anproghub">
-  <img align="left" alt="Ankush's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+  <img align="left" alt="Ankush's Youtube Channel" width="22px" src="https://www.iconsdb.com/icons/preview/white/youtube-xxl.png"/>
 </a>
   <a href="mailto:ac.ankushchauhan.2006@gmail.com">
-  <img align="left" alt="Ankush's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+  <img align="left" alt="Ankush's Email" width="22px" src="https://www.iconsdb.com/icons/preview/white/email-xxl.png" />
 </a>
 <hr />
   15, building <a href="https://www.cryptokaro.in">CryptoKaro</a>, <a href="https://tks.world">TKS</a> Fellow, prev build Dogemedia (exit 🔙)
