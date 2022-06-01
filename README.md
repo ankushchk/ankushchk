@@ -1,5 +1,5 @@
 ### Hey there , I'm <a href="https://linktr.ee/ankushchauhan">Ankush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<img align="right" src="https://media0.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="80px" height="80px"/>
+<img align="right" src="https://media0.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="40px" height="40px"/>
 <br>
 <!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 <a href="https://twitter.com/anproghub">
