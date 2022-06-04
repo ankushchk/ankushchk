@@ -1,15 +1,14 @@
-### Hey there , I'm <a href="https://linktr.ee/ankushchauhan">Ankush <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<img align="right" src="https://media0.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="40px" height="40px"/>
+### gm! 🌞 , I'm <a href="https://linktr.ee/ankushchauhan">Ankush 👨‍💻 </a>
+
 <br>
-<!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 <a href="https://twitter.com/anproghub">
   <img align="left" alt="Ankush's Twitter | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" />
 </a>
 <a href="https://www.linkedin.com/in/ankushchauhan14">
   <img align="left" alt="Ankush's Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />
 </a>
-<a href="https://gitlab.com/An-prog-hub">
-  <img align="left" alt="Ankush's Gitlab" width="22px" src="https://www.iconsdb.com/icons/preview/white/github-xxl.png" />
+<a href="https://dsc.gg/cryptokaro">
+  <img align="left" alt="Ankush's Gitlab" width="42px" src="https://user-images.githubusercontent.com/67872399/172011937-2089d709-3b96-485c-8b97-201522f8664c.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC9upzF9wBH5CGvf8dSIp-aw?disable_polymer=true">
   <img align="left" alt="Ankush's Youtube Channel" width="22px" src="https://www.iconsdb.com/icons/preview/white/youtube-xxl.png"/>
@@ -17,52 +16,45 @@
   <a href="mailto:ac.ankushchauhan.2006@gmail.com">
   <img align="left" alt="Ankush's Email" width="22px" src="https://www.iconsdb.com/icons/preview/white/email-xxl.png" />
 </a>
+
 <hr />
-  15, building <a href="https://www.cryptokaro.in">CryptoKaro</a>, <a href="https://tks.world">TKS</a> Fellow, prev build Dogemedia (exit 🔙)
+  <code> 15, building <a href="https://www.cryptokaro.in">CryptoKaro</a>, <a href="https://tks.world">TKS</a> Fellow, Experimenting at <a href="https://launchx.com/">LaunchX</a> </code>
   <br/>
 <img align="right" alt="GIF" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/gif.gif?raw=true" width="390" height="270" />
 <br />
 
-**My Personal Information**
+**About Me**
+Hi, This is Ankush a 16-year-old blockchain-cum-Web developer, I am a 10th grader living in India. Always open to help others :)
 
-- 💻 I’m currently working on something cool :wink: ;
-- 🌱 I’m currently learning Rust and Typescript 🟦  ; 
-- 😄 Pronouns: He/Him
-- 💬 Ask me about anything, I am happy to help ;
-- 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankushchauhan14) ;
-- 📝[Resume](https://linkedin.in/in/ankushchauhan14) ;
+## Tools / Languages:
+
+These are the tools and languages that I have worked with and have experience about using them.
+
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
+![HardHat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Premier Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere%20pro)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)
+
 
 **Support Me 🌈**
-
-- [![paypal.me/anjalichauhanIN](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anjalichauhanIN)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmdIWaqx6DeguddrOzlxdVg?style=social)
 - [![buymeacoffee.com/iamankush](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iamankush)
-
-**Languages and Tools:**  
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="35" src="https://nodejs.org/static/images/logo-hexagon-card.png"></code>
-<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/49339/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
-<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/unity-5-555544.png"></code>
-<code><img height="35" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
-<code><img height="35" src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow.png"></code>
-<code><img height="35" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png"></code>
-<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
-<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
-<code><img height="35" src="https://www.appcoda.com/wp-content/uploads/2015/04/react-native.png"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
-<code><img height="35" src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png"></code>
-<code><img height="35" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
-<code><img height="35" src="https://miro.medium.com/max/1400/0*yqbRInqX0ZRUlVS0"></code>
+- Ξ **ankushchauhan.eth**
+- <img src="https://user-images.githubusercontent.com/67872399/172011088-eae77785-2a99-400e-994d-0a805a4087f5.png" width="15px" height="15px"/> **ankush.sol**
 
 
 📊 **This Week I Spent My Time On:** ⏰🕜
@@ -78,3 +70,12 @@ Rust         45 mins         ▓░░░░░░░░░░░░░░░░
 <!--ending-->
 
 <hr />
+
+## Github Stats:
+
+<p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=An-prog-hub&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ankush's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-prog-hub&layout=compact&theme=tokyonight" alt="Ankush's top language stats" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=An-prog-hub&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
