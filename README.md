@@ -23,7 +23,8 @@
 <img align="right" alt="GIF" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/gif.gif?raw=true" width="390" height="270" />
 <br />
 
-**About Me**
+## About Me:
+
 Hi, This is Ankush a 16-year-old blockchain-cum-Web developer, I am a 10th grader living in India. Always open to help others :)
 
 ## Tools / Languages:
@@ -50,7 +51,7 @@ These are the tools and languages that I have worked with and have experience ab
 ![C++](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)
 
 
-**Support Me 🌈**
+**Support Me 🌈** <br/>
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmdIWaqx6DeguddrOzlxdVg?style=social)
 - [![buymeacoffee.com/iamankush](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iamankush)
 - Ξ **ankushchauhan.eth**
