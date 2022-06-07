@@ -1,4 +1,5 @@
-### gm! 🌞 , I'm <a href="https://linktr.ee/ankushchauhan">Ankush 👨‍💻 </a>
+### gm! 🌞 , I'm <a href="https://linktr.ee/ankushchauhan">Ankush 👨‍💻 </a> 
+<img src="https://komarev.com/ghpvc/?username=An-prog-hub&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
 <br>
 <a href="https://twitter.com/anproghub">
@@ -79,4 +80,3 @@ Rust         45 mins         ▓░░░░░░░░░░░░░░░░
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-prog-hub&layout=compact&theme=tokyonight" alt="Ankush's top language stats" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=An-prog-hub&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
