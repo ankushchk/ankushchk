@@ -11,9 +11,6 @@
 <a href="https://dsc.gg/cryptokaro">
   <img align="left" alt="Ankush's Gitlab" width="42px" src="https://user-images.githubusercontent.com/67872399/172011937-2089d709-3b96-485c-8b97-201522f8664c.png" />
 </a>
-<a href="https://www.youtube.com/channel/UC9upzF9wBH5CGvf8dSIp-aw?disable_polymer=true">
-  <img align="left" alt="Ankush's Youtube Channel" width="22px" src="https://www.iconsdb.com/icons/preview/white/youtube-xxl.png"/>
-</a>
   <a href="mailto:ac.ankushchauhan.2006@gmail.com">
   <img align="left" alt="Ankush's Email" width="22px" src="https://www.iconsdb.com/icons/preview/white/email-xxl.png" />
 </a>
