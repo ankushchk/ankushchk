@@ -23,8 +23,7 @@
 
 ## About Me:
 
-Hi, This is Ankush a 16-year-old blockchain-cum-Web developer, I am a 10th grader living in India. Always open to help others :)
-
+Hi, This is Ankush a Blockchain-cum-Web Developer from India. I am passionate about Nextjs and Thirdweb. Always eager to connect with others :)
 ## Tools / Languages:
 
 These are the tools and languages that I have worked with and have experience about using them.
