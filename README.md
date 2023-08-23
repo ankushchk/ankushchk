@@ -1,5 +1,5 @@
 ### gm! 🌞 , I'm <a href="https://linktr.ee/ankushchauhan">Ankush 👨‍💻 </a> 
-<img src="https://komarev.com/ghpvc/?username=An-prog-hub&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=anproghub&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
 <br>
 <a href="https://twitter.com/anproghub">
@@ -18,7 +18,7 @@
 <hr />
   <code> 16, building <a href="https://www.cryptokaro.in">CryptoKaro</a>, <a href="https://tks.world">TKS</a> Fellow, Experimenting at <a href="https://launchx.com/">LaunchX</a> </code>
   <br/>
-<img align="right" alt="GIF" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/gif.gif?raw=true" width="390" height="270" />
+<img align="right" alt="GIF" src="https://github.com/anproghub/anproghub/blob/master/gif.gif?raw=true" width="390" height="270" />
 <br />
 
 ## About Me:
@@ -72,7 +72,7 @@ Rust         45 mins         ▓░░░░░░░░░░░░░░░░
 ## Github Stats:
 
 <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=An-prog-hub&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ankush's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-prog-hub&layout=compact&theme=tokyonight" alt="Ankush's top language stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=anproghub&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ankush's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anproghub&layout=compact&theme=tokyonight" alt="Ankush's top language stats" />
 </p>
 
