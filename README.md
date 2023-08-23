@@ -16,17 +16,17 @@
 </a>
 
 <hr />
-  <code> 15, building <a href="https://www.cryptokaro.in">CryptoKaro</a>, <a href="https://tks.world">TKS</a> Fellow, Experimenting at <a href="https://launchx.com/">LaunchX</a> </code>
+  <code> 16, building <a href="https://www.cryptokaro.in">CryptoKaro</a>, <a href="https://tks.world">TKS</a> Fellow, Experimenting at <a href="https://launchx.com/">LaunchX</a> </code>
   <br/>
 <img align="right" alt="GIF" src="https://github.com/An-prog-hub/An-prog-hub/blob/master/gif.gif?raw=true" width="390" height="270" />
 <br />
 
 ## About Me:
 
-Hi, This is Ankush a Blockchain-cum-Web Developer from India. I am passionate about Nextjs and Thirdweb. Always eager to connect with others :)
+Hi, This is Ankush a Blockchain Developer from India. I am passionate about Nextjs and Thirdweb. Always eager to connect with others :)
 ## Tools / Languages:
 
-These are the tools and languages that I have worked with and have experience about using them.
+These are the tools and languages that I have worked with and have experience using them.
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
