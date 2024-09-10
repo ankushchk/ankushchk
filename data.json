@@ -1,158 +1,491 @@
-[
+{
+  "restaurants": [
     {
-      "calories": "516 kcal",
-      "carbos": "47 g",
-      "description": "There\u2019s nothing like the simple things in life - the smell of freshly cut grass, sitting outside on a nice sunny day, spending time with friends and family. Well here is a recipe that delivers simple culinary pleasures - some nice fresh fish with a crispy crust, crunchy potato wedges and some delightfully sweet sugar snap peas flavoured with cooling mint. Slip into something comfortable and relax into a delicious dinner!",
-      "difficulty": 0,
-      "fats": "8 g",
-      "headline": "with Sweet Potato Wedges and Minted Snap Peas",
-      "id": "533143aaff604d567f8b4571",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/533143aaff604d567f8b4571.jpg",
-      "name": "Crispy Fish Goujons ",
-      "proteins": "43 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/533143aaff604d567f8b4571.jpg",
-      "rating": "4.5"
+      "info": {
+        "id": "454201",
+        "name": "KFC",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/9869efb0-ef0e-41eb-bffa-9d6e03eef55e_454201.JPG",
+        "locality": "Raj Nagar Extension",
+        "areaName": "Raj Nagar Extension",
+        "costForTwo": "₹400 for two",
+        "cuisines": ["Burgers", "Fast Food", "Rolls & Wraps"],
+        "avgRating": 4.3,
+        "parentId": "547",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "2.2K+",
+        "promoted": true,
+        "description": "Famous for its crispy chicken and fast food menu. A popular choice for quick, satisfying meals.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 02:00:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "397 kcal",
-      "carbos": "26 g",
-      "description": "Close your eyes, open up your Ras El Hanout and inhale deeply. You are no longer standing in your kitchen. Around you are the sounds of a bustling market. Robed men sell ornate carpets and a camel nibbles affectionately at your ear.  OK, we\u2019re pretty sure Paul McKenna\u2019s job is safe for now, but get cooking this recipe and take dinnertime on a magic carpet ride to Casablanca! Our tip for this recipe is to take your meat out of the fridge at least 30 minutes before dinner which will allow you to cook it more evenly.",
-      "difficulty": 0,
-      "fats": "5 g",
-      "headline": "with Spinach and Lemon Couscous",
-      "id": "53314247ff604d44808b4569",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/53314247ff604d44808b4569.jpg",
-      "name": "Moroccan Skirt Steak ",
-      "proteins": "31 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/53314247ff604d44808b4569.jpg",
-      "rating": "4"
+      "info": {
+        "id": "89918",
+        "name": "Pizza Hut",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/6fcbe493-c1c5-4743-81dd-082e5f5911c7_89918.jpg",
+        "locality": "Vvip Style Mall",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹350 for two",
+        "cuisines": ["Pizzas"],
+        "avgRating": 4.3,
+        "parentId": "721",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "4.7K+",
+        "promoted": false,
+        "description": "Enjoy a wide range of pizzas with fresh ingredients and classic flavors. Ideal for pizza lovers.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 03:00:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "458 kcal",
-      "carbos": "29 g",
-      "description": "World-renowned people generally all have one thing in common: a legacy. For Henry Ford it was the motorcar, for Thomas Edison it was the lightbulb. For our intern Simon, it was this lip-smackingly awesome Sea Bream. Taking the warm crunchiness of potatoes against the fresh southern asian flavours of fish with coriander, ginger and lime, it\u2019s the perfect dish for transporting your tastebuds. Don\u2019t let the smell of the fish sauce throw you - add it gradually to your sauce for a really authentic asian spin!",
-      "difficulty": 1,
-      "fats": "6 g",
-      "headline": "with Tomato Concasse and Crispy Potatoes",
-      "id": "53314276ff604d28828b456b",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/53314276ff604d28828b456b.jpg",
-      "name": "Simple Sumptuous Sea Bream",
-      "proteins": "29 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/53314276ff604d28828b456b.jpg",
-      "rating": "3.7"
+      "info": {
+        "id": "686202",
+        "name": "Chinese Wok",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e0839ff574213e6f35b3899ebf1fc597",
+        "locality": "Raj Nagar",
+        "areaName": "VVIP Style Mall",
+        "costForTwo": "₹250 for two",
+        "cuisines": ["Chinese", "Asian", "Tibetan", "Desserts"],
+        "avgRating": 4.2,
+        "parentId": "61955",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "899",
+        "promoted": false,
+        "description": "Offers a diverse selection of Chinese and Asian dishes. Great for a variety of flavor profiles.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 02:00:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "717 kcal",
-      "carbos": "44 g",
-      "description": "Nostalgia is a powerful thing. For some it\u2019s triggered by the smell of freshly cut grass, for others by the sound of a love song from their heady teenage years. For Head Chef Patrick it\u2019s all about Swiss Roll. A firm dinnertime favourite from his primary school years, we still see him go all misty eyed at the mere mention of it. We\u2019re pretty sure that was the inspiration behind this little number. Tonight, prepare to create a little nostalgia that the little \u2018uns will remember for years!",
-      "difficulty": 2,
-      "fats": "10 g",
-      "headline": "with Roasted Rocket Potatoes",
-      "id": "533143bfff604d44808b456a",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/533143bfff604d44808b456a.jpg",
-      "name": "Mozzarella and Pesto Roulades",
-      "proteins": "67 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/533143bfff604d44808b456a.jpg",
-      "rating": "4.7"
+      "info": {
+        "id": "729504",
+        "name": "Theobroma",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/22/ac7b6eb9-0a8d-4898-a639-e0dd0000b2ab_729504.jpg",
+        "locality": "Vedantam Hotel Complex",
+        "areaName": "Ghaziabad",
+        "costForTwo": "₹400 for two",
+        "cuisines": ["Bakery", "Desserts", "Beverages"],
+        "avgRating": 4.6,
+        "parentId": "1040",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "222",
+        "promoted": false,
+        "description": "A renowned bakery offering a delightful range of desserts and beverages. Perfect for sweet treats.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 00:00:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "751 kcal",
-      "carbos": "105 g",
-      "description": "Head Chef Patrick doesn\u2019t like fuss. He\u2019s always telling us that the best kind of food is simple, soulful grub that makes you feel loved. That said, every dinner is a chance to practice your presentation skills. Bigger plates are a great way of framing your food and a sprinkle of herbs or a drizzle of olive oil at the end gives everything a bit more pizzazz. For this recipe, we took classic Mexican ingredients and played with the presentation to create something that\u2019s as tasty to the eye as it is to the tongue. Arriba!",
-      "difficulty": 1,
-      "fats": "4 g",
-      "headline": "with Homemade Guacamole and Black Bean Salsa",
-      "id": "5331430fff604d557f8b456d",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/5331430fff604d557f8b456d.jpg",
-      "name": "Mexican Tortilla Stack",
-      "proteins": "35 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/5331430fff604d557f8b456d.jpg",
-      "rating": "4.3"
+      "info": {
+        "id": "509008",
+        "name": "Burger King",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/8/9/f38124fc-18c8-470c-90d0-9820a698bd95_509008.jpg",
+        "locality": "Vvip Style Mall",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹350 for two",
+        "cuisines": ["Burgers", "American"],
+        "avgRating": 4.5,
+        "parentId": "166",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "4.7K+",
+        "promoted": true,
+        "description": "Known for its flame-grilled burgers and extensive menu. A top pick for burger enthusiasts.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 03:45:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "689 kcal",
-      "carbos": "84 g",
-      "description": "We\u2019ve all heard that much overused culinary phrase \u201cfusion food\u201d, but this recipe is fusion of a slightly different kind. With the onset of Winter Patrick has taken some decidedly seasonal squash and the deep, heady scent of rosemary and combined them with the lighter flavour of feta and wild rice. The squash takes a little bit of work with a vegetable peeler but once you\u2019ve tackled and roasted it you\u2019ll never look back. We use any leftovers for butternut squash soup!",
-      "difficulty": 0,
-      "fats": "8 g",
-      "headline": "with Wild Rice, Feta and Pine Nuts",
-      "id": "53314328ff604d4d808b456b",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/53314328ff604d4d808b456b.jpg",
-      "name": "Roasted Rosemary Butternut Squash ",
-      "proteins": "23 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/53314328ff604d4d808b456b.jpg",
-      "rating": "4.1"
+      "info": {
+        "id": "161161",
+        "name": "LunchBox - Meals and Thalis",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/4edcfc66d91018d69894941ebb3c8d16",
+        "locality": "P And T Colony",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Biryani",
+          "North Indian",
+          "Punjabi",
+          "Healthy Food",
+          "Desserts",
+          "Beverages"
+        ],
+        "avgRating": 4.3,
+        "parentId": "4925",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "3.5K+",
+        "promoted": false,
+        "description": "Specializes in wholesome meals and thalis, offering a range of North Indian and Punjabi dishes.",
+        "availability": {
+          "nextCloseTime": "2024-09-10 23:59:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "400 kcal",
-      "carbos": "45 g",
-      "description": "\u2018Allo Genovese\u2019 simply means \u2018in the style of Genoa\u2019, which is the northern Italian city famous for the pesto that you\u2019ll be making tonight. \u2018Pesto\u2019 actually comes from the word \u2018pestare\u2019, which means to pound or crush, referring to the old fashioned method of making it in a pestle & mortar. If you happen to have a food processor, you can whizz the pesto together in that, or alternatively just chop, chop, chop everything until it is tiny. Andiamo! ",
-      "difficulty": 0,
-      "fats": "15 g",
-      "headline": "with Toasted Pine Nuts and Tenderstem Broccoli",
-      "id": "53314343ff604d28828b456c",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/53314343ff604d28828b456c.jpg",
-      "name": "Gnocchi Allo Genovese",
-      "proteins": "10 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/53314343ff604d28828b456c.jpg",
-      "rating": "5"
+      "info": {
+        "id": "457303",
+        "name": "Bakingo",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/8/5/dfae7029-5467-46b6-83f9-84dba353082d_457303.JPG",
+        "locality": "sector 23",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹300 for two",
+        "cuisines": ["Bakery", "Desserts", "Beverages", "Snacks"],
+        "avgRating": 4.5,
+        "parentId": "3818",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "2.9K+",
+        "promoted": false,
+        "description": "A delightful bakery known for its range of snacks and desserts, perfect for any sweet craving.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 00:00:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "790 kcal",
-      "carbos": "100 g",
-      "description": "\u201cPolpetti?!\u201d we hear you say. That\u2019s meatballs to you and me. But meatballs so good you want \r\n\r\nto parade them down the street waving your arms aloft like a passionate Italian grandmother. \r\n\r\nThese little rascals are perfect for your little rascals (both big and small!) as you can get \r\n\r\neveryone involved in rolling them up. Once served, everyone around the table must choose an \r\n\r\nItalian name and act Italian for the rest of dinner time. Andiamo!*",
-      "difficulty": 3,
-      "fats": "9 g",
-      "headline": "with Creamy Parmesan Polenta",
-      "id": "53314398ff604d6c7a8b456a",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/53314398ff604d6c7a8b456a.jpg",
-      "name": "Herbed Italian Polpetti",
-      "proteins": "39 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/53314398ff604d6c7a8b456a.jpg",
-      "rating": "3.2"
+      "info": {
+        "id": "336714",
+        "name": "Domino's Pizza",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d0450ce1a6ba19ea60cd724471ed54a8",
+        "locality": "Noor Nagar",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹400 for two",
+        "cuisines": ["Pizzas", "Italian", "Pastas", "Desserts"],
+        "avgRating": 4.3,
+        "parentId": "2456",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "2.9K+",
+        "promoted": true,
+        "description": "Famous for its delicious pizzas and pasta, a go-to for classic Italian dishes.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 02:59:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "556 kcal",
-      "carbos": "62 g",
-      "description": "Patrick has been working on a theory that the fewer utensils you use to eat a meal, the tastier it\u2019s likely to be. Think about it - everything you eat with only a fork is usually delicious. Dispense with cutlery entirely to use your fingers and suddenly you\u2019re in taste bud paradise. That was the thinking behind this Japanese favourite. A surefire winner in the eateries of Tokyo, pick it up with your fingers and get stuck in! The first person to finish has to shout \u201cBanzaaaiiii\u201d!",
-      "difficulty": 2,
-      "fats": "4 g",
-      "headline": "and Sweet and Sour Noodles",
-      "id": "5252b20c301bbf46038b477e",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/5252b20c301bbf46038b477e.jpg",
-      "name": "Genki Yakitori with Crispy Red Onions",
-      "proteins": "32 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/5252b20c301bbf46038b477e.jpg",
-      "rating": "4"
+      "info": {
+        "id": "543897",
+        "name": "Wow! Momo",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/64fd45fd9f44c1737bc446e470bed666",
+        "locality": "Food Court Area",
+        "areaName": "Rajnagar Extension",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Tibetan",
+          "Healthy Food",
+          "Asian",
+          "Chinese",
+          "Snacks",
+          "Continental",
+          "Desserts",
+          "Beverages"
+        ],
+        "avgRating": 4.4,
+        "parentId": "1776",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "666",
+        "promoted": false,
+        "description": "Enjoy a wide variety of Tibetan and Asian cuisine at Wow! Momo, located at the Rajnagar Extension. With a highly rated menu featuring healthy food options and desserts, it's perfect for a meal that costs around ₹300 for two.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 01:00:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "751 kcal",
-      "carbos": "105 g",
-      "country": "GB",
-      "description": "Head Chef Patrick doesn\u2019t like fuss. He\u2019s always telling us that the best kind of food is simple, soulful grub that makes you feel loved. That said, every dinner is a chance to practice your presentation skills. Bigger plates are a great way of framing your food and a sprinkle of herbs or a drizzle of olive oil at the end gives everything a bit more pizzazz. For this recipe, we took classic Mexican ingredients and played with the presentation to create something that\u2019s as tasty to the eye as it is to the tongue. Arriba!",
-      "difficulty": 0,
-      "fats": "4 g",
-      "headline": "with Cucumber Salad",
-      "id": "5331430fff604d557f8b456c",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/sausage-risotto-wk41-a201d2fa.jpg",
-      "name": "Sausage Risotto",
-      "proteins": "35 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/sausage-risotto-wk41-a201d2fa.jpg",
-      "rating": "3.1"
+      "info": {
+        "id": "60641",
+        "name": "Hira Sweets",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/eofyjfawwx8dt7qvsrr2",
+        "locality": "Raj Nagar",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹500 for two",
+        "cuisines": [
+          "South Indian",
+          "Chinese",
+          "Continental",
+          "Bakery",
+          "Street Food",
+          "Sweets",
+          "Desserts",
+          "Beverages"
+        ],
+        "avgRating": 4.4,
+        "parentId": "5155",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "23K+",
+        "promoted": false,
+        "description": "Hira Sweets in Raj Nagar offers a delicious array of South Indian and Chinese cuisines, along with continental treats, street food, and desserts. Perfect for a hearty meal for two priced at ₹500.",
+        "availability": {
+          "nextCloseTime": "2024-09-10 23:59:00",
+          "opened": true
+        }
+      }
     },
     {
-      "calories": "689 kcal",
-      "carbos": "84 g",
-      "description": "We\u2019ve all heard that much overused culinary phrase \u201cfusion food\u201d, but this recipe is fusion of a slightly different kind. With the onset of Winter Patrick has taken some decidedly seasonal squash and the deep, heady scent of rosemary and combined them with the lighter flavour of feta and wild rice. The squash takes a little bit of work with a vegetable peeler but once you\u2019ve tackled and roasted it you\u2019ll never look back. We use any leftovers for butternut squash soup!",
-      "difficulty": 0,
-      "fats": "8 g",
-      "headline": "with Peppercorn Sauce (F)",
-      "id": "53314328ff604d4d128b456b",
-      "image": "https://img.hellofresh.com/f_auto,q_auto/hellofresh_s3/image/54511c31ff604dee7b8b4571.jpg",
-      "name": "Bacon Wrapped Pork Loin ",
-      "proteins": "23 g",
-      "thumb": "https://img.hellofresh.com/f_auto,q_auto,w_300/hellofresh_s3/image/54511c31ff604dee7b8b4571.jpg",
-      "rating": "4.8"
+      "info": {
+        "id": "543898",
+        "name": "Wow! China",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/95982cfa57cb3b7e504f2015c375fd55",
+        "locality": "NH 58 Bypass",
+        "areaName": "KW6 Mall",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Tibetan",
+          "Chinese",
+          "Asian",
+          "Snacks",
+          "Continental",
+          "Desserts",
+          "Beverages"
+        ],
+        "avgRating": 4.1,
+        "parentId": "226836",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "200",
+        "promoted": false,
+        "description": "Wow! China offers a wide variety of Tibetan, Chinese, and Asian cuisines at an affordable cost of ₹400 for two. Located at KW6 Mall, this restaurant is known for its delicious snacks, continental dishes, and beverages, making it a popular spot for food lovers.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 01:00:00",
+          "opened": true
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "678835",
+        "name": "Barista Coffee",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b64bf721e12e7b3df82c832898999c51",
+        "locality": "Civil Lines",
+        "areaName": "Raj Nagar Extension",
+        "costForTwo": "₹600 for two",
+        "cuisines": [
+          "Beverages",
+          "Fast Food",
+          "Snacks",
+          "Biryani",
+          "Pastas",
+          "Desserts"
+        ],
+        "avgRating": 4.6,
+        "parentId": "416281",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "65",
+        "promoted": false,
+        "description": "Barista Coffee is a cozy cafe located in Raj Nagar Extension. Known for its top-rated coffee, beverages, fast food, and desserts, this place offers a great ambiance for coffee lovers. With a high average rating of 4.6, it’s perfect for a relaxing time with friends or family.",
+        "availability": {
+          "nextCloseTime": "2024-09-10 20:30:00",
+          "opened": true
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "854843",
+        "name": "Hong's Kitchen - Hearty! Tasty! Chinese!",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/3221231e6bc58963db9c81f5c021e883",
+        "locality": "Noor Nagar",
+        "areaName": "Raj Nagar Extension",
+        "costForTwo": "₹250 for two",
+        "cuisines": ["Chinese", "Asian", "Tibetan"],
+        "avgRating": 4.2,
+        "parentId": "9547",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "295",
+        "promoted": true,
+        "description": "Hong's Kitchen is the perfect spot for Chinese and Asian food lovers. Located in Raj Nagar Extension, this restaurant offers hearty and tasty dishes with Tibetan influences at an affordable price of ₹250 for two. It’s a great place to enjoy delicious food with friends.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 00:00:00",
+          "opened": true
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "703870",
+        "name": "Grameen Kulfi",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/930b886678eb9de74b5a3150bdd0f405",
+        "locality": "Aura Plaza",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹120 for two",
+        "cuisines": ["Ice Cream", "Desserts"],
+        "avgRating": 4.8,
+        "veg": true,
+        "parentId": "12175",
+        "avgRatingString": "4.8",
+        "totalRatingsString": "100",
+        "promoted": false,
+        "description": "Grameen Kulfi is a must-visit dessert place in Raj Nagar, specializing in ice cream and other delightful treats. With a high rating of 4.8, it’s the perfect stop to satisfy your sweet tooth, offering a variety of delicious and affordable veg dessert options.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 00:00:00",
+          "opened": true
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "622236",
+        "name": "MOJO Pizza - 2X Toppings",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/295f1bfc-237b-4bd4-832b-a23fdf08f8aa_622236.JPG",
+        "locality": "Palm Drive",
+        "areaName": "Raj Nagar Extension",
+        "costForTwo": "₹250 for two",
+        "cuisines": ["Pizzas", "Italian", "Fast Food", "Desserts"],
+        "avgRating": 4.5,
+        "parentId": "11329",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "510",
+        "promoted": false,
+        "description": "MOJO Pizza is famous for its pizzas with double toppings, making it a popular choice for pizza lovers in Raj Nagar Extension. With an affordable price of ₹250 for two, this place is a go-to for fast food and Italian cuisine enthusiasts.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 02:00:00",
+          "opened": true
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "537053",
+        "name": "Biryani Badshah",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ozr6fqnufbi2jkpw8w2c",
+        "locality": "Govindpuram Road",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+          "Biryani",
+          "Hyderabadi",
+          "Andhra",
+          "South Indian",
+          "North Indian",
+          "Mughlai",
+          "Kebabs"
+        ],
+        "avgRating": 4.4,
+        "parentId": "10703",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "1.0K+",
+        "promoted": false,
+        "description": "Enjoy premium coffee and snacks at Starbucks Coffee in Raj Nagar Extension. Whether for work or a casual meet-up, it's perfect for coffee aficionados at ₹700 for two.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 00:00:00",
+          "opened": true
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "854844",
+        "name": "Hong's Momos",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ffc6cff9b5f3a462be23c1feab79ab68",
+        "locality": "Noor Nagar",
+        "areaName": "Raj Nagar Extension",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Chinese", "Asian", "Tibetan"],
+        "avgRating": 4.3,
+        "parentId": "10686",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "29",
+        "promoted": false,
+        "description": "Enjoy premium coffee and snacks at Starbucks Coffee in Raj Nagar Extension. Whether for work or a casual meet-up, it's perfect for coffee aficionados at ₹700 for two.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 00:00:00",
+          "opened": true
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "450169",
+        "name": "Chaayos Chai+Snacks=Relax",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/dfbcecfc-b380-4648-930a-b9b56b21e781_450169.JPG",
+        "locality": "sector 23",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+          "Bakery",
+          "Beverages",
+          "Chaat",
+          "Desserts",
+          "Home Food",
+          "Italian",
+          "Maharashtrian",
+          "Snacks",
+          "Street Food",
+          "Sweets"
+        ],
+        "avgRating": 4.6,
+        "parentId": "281782",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "1.5K+",
+        "promoted": false,
+        "description": "Enjoy premium coffee and snacks at Starbucks Coffee in Raj Nagar Extension. Whether for work or a casual meet-up, it's perfect for coffee aficionados at ₹700 for two.",
+        "availability": {
+          "nextCloseTime": "2024-09-10 23:00:00",
+          "opened": true
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "811610",
+        "name": "Starbucks Coffee",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/3/1ec2bd1e-7f19-40af-944a-c80832ae769f_811610.JPG",
+        "locality": "Raj Nagar",
+        "areaName": "Ghaziabad",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Beverages",
+          "Cafe",
+          "Snacks",
+          "Desserts",
+          "Bakery",
+          "Ice Cream"
+        ],
+        "avgRating": 4.6,
+        "parentId": "195515",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "241",
+        "promoted": false,
+        "description": "Enjoy premium coffee and snacks at Starbucks Coffee in Raj Nagar Extension. Whether for work or a casual meet-up, it's perfect for coffee aficionados at ₹700 for two.",
+        "availability": {
+          "nextCloseTime": "2024-09-10 23:00:00",
+          "opened": true
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "831281",
+        "name": "Pastas By Pizza Hut",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/dce75bf0d124fb1fa390597828d8ffd9",
+        "locality": "Vvip Style Mall",
+        "areaName": "Raj Nagar",
+        "costForTwo": "₹400 for two",
+        "cuisines": ["Pastas"],
+        "avgRating": 3.8,
+        "parentId": "306806",
+        "avgRatingString": "3.8",
+        "totalRatingsString": "25",
+        "promoted": false,
+        "description": "Enjoy premium coffee and snacks at Starbucks Coffee in Raj Nagar Extension. Whether for work or a casual meet-up, it's perfect for coffee aficionados at ₹700 for two.",
+        "availability": {
+          "nextCloseTime": "2024-09-11 03:00:00",
+          "opened": true
+        }
+      }
     }
   ]
-  
+}
