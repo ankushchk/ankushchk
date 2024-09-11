@@ -17,7 +17,21 @@
       "availability": {
         "nextCloseTime": "2024-09-11 02:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Chicken Zinger",
+          "price": "₹150",
+          "description": "Crispy chicken fillet with fresh lettuce and mayo.",
+          "availability": true
+        },
+        {
+          "dishName": "Hot Wings",
+          "price": "₹200",
+          "description": "Spicy chicken wings with a crunchy exterior.",
+          "availability": true
+        }
+      ]
     }
   },
   {
@@ -38,7 +52,21 @@
       "availability": {
         "nextCloseTime": "2024-09-11 03:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Margherita Pizza",
+          "price": "₹250",
+          "description": "Classic cheese pizza with a tangy tomato base.",
+          "availability": true
+        },
+        {
+          "dishName": "Veggie Supreme",
+          "price": "₹300",
+          "description": "Loaded with fresh vegetables and mozzarella cheese.",
+          "availability": true
+        }
+      ]
     }
   },
   {
@@ -59,7 +87,19 @@
       "availability": {
         "nextCloseTime": "2024-09-11 02:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Schezwan Noodles",
+          "price": "₹150",
+          "description": "Spicy and flavorful noodles with a kick of schezwan sauce."
+        },
+        {
+          "dishName": "Spring Rolls",
+          "price": "₹120",
+          "description": "Crispy spring rolls served with sweet chili sauce."
+        }
+      ]
     }
   },
   {
@@ -80,7 +120,19 @@
       "availability": {
         "nextCloseTime": "2024-09-11 00:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Chocolate Brownie",
+          "price": "₹150",
+          "description": "Decadent chocolate brownie with a rich and moist texture."
+        },
+        {
+          "dishName": "Red Velvet Cake",
+          "price": "₹180",
+          "description": "Delicious red velvet cake with a smooth cream cheese frosting."
+        }
+      ]
     }
   },
   {
@@ -101,7 +153,19 @@
       "availability": {
         "nextCloseTime": "2024-09-11 03:45:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Whopper",
+          "price": "₹220",
+          "description": "Signature flame-grilled beef patty with fresh toppings."
+        },
+        {
+          "dishName": "Chicken Fries",
+          "price": "₹150",
+          "description": "Tender chicken strips served with a side of dipping sauce."
+        }
+      ]
     }
   },
   {
@@ -129,7 +193,19 @@
       "availability": {
         "nextCloseTime": "2024-09-10 23:59:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Punjabi Thali",
+          "price": "₹180",
+          "description": "A wholesome Punjabi meal with roti, sabzi, dal, and dessert."
+        },
+        {
+          "dishName": "Chicken Biryani",
+          "price": "₹200",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and spices."
+        }
+      ]
     }
   },
   {
@@ -150,7 +226,19 @@
       "availability": {
         "nextCloseTime": "2024-09-11 00:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Chocolate Truffle Cake",
+          "price": "₹350",
+          "description": "Rich chocolate truffle cake with a creamy, decadent filling."
+        },
+        {
+          "dishName": "Pineapple Pastry",
+          "price": "₹120",
+          "description": "Light and fluffy pineapple pastry with whipped cream."
+        }
+      ]
     }
   },
   {
@@ -171,7 +259,24 @@
       "availability": {
         "nextCloseTime": "2024-09-11 02:59:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Margherita Pizza",
+          "price": "₹150",
+          "veg": true
+        },
+        {
+          "dishName": "Chicken Dominator",
+          "price": "₹250",
+          "veg": false
+        },
+        {
+          "dishName": "Garlic Breadsticks",
+          "price": "₹99",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -201,7 +306,24 @@
       "availability": {
         "nextCloseTime": "2024-09-11 01:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Veg Steamed Momos",
+          "price": "₹120",
+          "veg": true
+        },
+        {
+          "dishName": "Chicken Fried Momos",
+          "price": "₹150",
+          "veg": false
+        },
+        {
+          "dishName": "Paneer Tandoori Momos",
+          "price": "₹140",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -231,7 +353,59 @@
       "availability": {
         "nextCloseTime": "2024-09-10 23:59:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Samosa",
+          "price": "₹50",
+          "veg": true
+        },
+        {
+          "dishName": "Spring Roll",
+          "price": "₹80",
+          "veg": true
+        },
+        {
+          "dishName": "Pakora",
+          "price": "₹70",
+          "veg": true
+        },
+        {
+          "dishName": "Dosa",
+          "price": "₹120",
+          "veg": true
+        },
+        {
+          "dishName": "Idli",
+          "price": "₹100",
+          "veg": true
+        },
+        {
+          "dishName": "Chow Mein",
+          "price": "₹150",
+          "veg": false
+        },
+        {
+          "dishName": "Biryani",
+          "price": "₹200",
+          "veg": false
+        },
+        {
+          "dishName": "Gulab Jamun",
+          "price": "₹60",
+          "veg": true
+        },
+        {
+          "dishName": "Jalebi",
+          "price": "₹70",
+          "veg": true
+        },
+        {
+          "dishName": "Rasgulla",
+          "price": "₹80",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -260,7 +434,39 @@
       "availability": {
         "nextCloseTime": "2024-09-11 01:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Veg Spring Roll",
+          "price": "₹100",
+          "veg": true
+        },
+        {
+          "dishName": "Chicken Manchurian",
+          "price": "₹180",
+          "veg": false
+        },
+        {
+          "dishName": "Hot & Sour Soup",
+          "price": "₹120",
+          "veg": true
+        },
+        {
+          "dishName": "Veg Fried Rice",
+          "price": "₹150",
+          "veg": true
+        },
+        {
+          "dishName": "Chicken Chow Mein",
+          "price": "₹200",
+          "veg": false
+        },
+        {
+          "dishName": "Chocolate Spring Roll",
+          "price": "₹130",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -288,7 +494,39 @@
       "availability": {
         "nextCloseTime": "2024-09-10 20:30:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Espresso",
+          "price": "₹120",
+          "veg": true
+        },
+        {
+          "dishName": "Cappuccino",
+          "price": "₹150",
+          "veg": true
+        },
+        {
+          "dishName": "Cheese Sandwich",
+          "price": "₹180",
+          "veg": true
+        },
+        {
+          "dishName": "Pasta Alfredo",
+          "price": "₹220",
+          "veg": true
+        },
+        {
+          "dishName": "Chocolate Cake",
+          "price": "₹130",
+          "veg": true
+        },
+        {
+          "dishName": "Muffin",
+          "price": "₹100",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -309,7 +547,34 @@
       "availability": {
         "nextCloseTime": "2024-09-11 00:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Veg Momos",
+          "price": "₹120",
+          "veg": true
+        },
+        {
+          "dishName": "Chicken Fried Rice",
+          "price": "₹150",
+          "veg": false
+        },
+        {
+          "dishName": "Pork Wontons",
+          "price": "₹180",
+          "veg": false
+        },
+        {
+          "dishName": "Tibetan Thukpa",
+          "price": "₹200",
+          "veg": true
+        },
+        {
+          "dishName": "Chilli Chicken",
+          "price": "₹190",
+          "veg": false
+        }
+      ]
     }
   },
   {
@@ -331,7 +596,29 @@
       "availability": {
         "nextCloseTime": "2024-09-11 00:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Mango Kulfi",
+          "price": "₹80",
+          "veg": true
+        },
+        {
+          "dishName": "Pista Kulfi",
+          "price": "₹90",
+          "veg": true
+        },
+        {
+          "dishName": "Kesar Kulfi",
+          "price": "₹100",
+          "veg": true
+        },
+        {
+          "dishName": "Ras Malai",
+          "price": "₹120",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -352,7 +639,24 @@
       "availability": {
         "nextCloseTime": "2024-09-11 02:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Veg Steamed Momos",
+          "price": "₹120",
+          "veg": true
+        },
+        {
+          "dishName": "Chicken Fried Momos",
+          "price": "₹150",
+          "veg": false
+        },
+        {
+          "dishName": "Paneer Tandoori Momos",
+          "price": "₹140",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -377,11 +681,23 @@
       "avgRatingString": "4.4",
       "totalRatingsString": "1.0K+",
       "promoted": false,
-      "description": "Enjoy premium coffee and snacks at Starbucks Coffee in Raj Nagar Extension. Whether for work or a casual meet-up, it's perfect for coffee aficionados at ₹700 for two.",
+      "description": "Biryani Badshah offers a royal experience with its aromatic Hyderabadi biryanis and delicious kebabs. Ideal for biryani lovers and those craving rich North Indian flavors, it’s a great spot for hearty meals at ₹350 for two.",
       "availability": {
         "nextCloseTime": "2024-09-11 00:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Hyderabadi Biryani",
+          "price": "₹250",
+          "veg": false
+        },
+        {
+          "dishName": "South Indian Platter",
+          "price": "₹200",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -398,11 +714,23 @@
       "avgRatingString": "4.3",
       "totalRatingsString": "29",
       "promoted": false,
-      "description": "Enjoy premium coffee and snacks at Starbucks Coffee in Raj Nagar Extension. Whether for work or a casual meet-up, it's perfect for coffee aficionados at ₹700 for two.",
+      "description": "Hong's Momos is a go-to spot for authentic Tibetan and Chinese momos. Whether you’re craving spicy Tibetan dumplings or flavorful chicken dim sum, this place offers a delightful experience for just ₹200 for two.",
       "availability": {
         "nextCloseTime": "2024-09-11 00:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Tibetan Momos",
+          "price": "₹150",
+          "veg": false
+        },
+        {
+          "dishName": "Chicken Dim Sum",
+          "price": "₹180",
+          "veg": false
+        }
+      ]
     }
   },
   {
@@ -430,11 +758,23 @@
       "avgRatingString": "4.6",
       "totalRatingsString": "1.5K+",
       "promoted": false,
-      "description": "Enjoy premium coffee and snacks at Starbucks Coffee in Raj Nagar Extension. Whether for work or a casual meet-up, it's perfect for coffee aficionados at ₹700 for two.",
+      "description": "Chaayos Chai+Snacks=Relax is the perfect place to unwind with a variety of snacks and beverages. From their flavorful Masala Chai to a range of chaats, it's a cozy spot for tea lovers and snack enthusiasts at ₹250 for two.",
       "availability": {
         "nextCloseTime": "2024-09-10 23:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Masala Chai",
+          "price": "₹60",
+          "veg": true
+        },
+        {
+          "dishName": "Chaat Platter",
+          "price": "₹120",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -462,7 +802,19 @@
       "availability": {
         "nextCloseTime": "2024-09-10 23:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Cappuccino",
+          "price": "₹150",
+          "veg": true
+        },
+        {
+          "dishName": "Chocolate Chip Cookies",
+          "price": "₹90",
+          "veg": true
+        }
+      ]
     }
   },
   {
@@ -479,11 +831,23 @@
       "avgRatingString": "3.8",
       "totalRatingsString": "25",
       "promoted": false,
-      "description": "Enjoy premium coffee and snacks at Starbucks Coffee in Raj Nagar Extension. Whether for work or a casual meet-up, it's perfect for coffee aficionados at ₹700 for two.",
+      "description": "Pastas By Pizza Hut specializes in a variety of delicious pastas. Whether you're craving Spaghetti Carbonara or Fettuccine Alfredo, this place offers a great dining experience at ₹400 for two.",
       "availability": {
         "nextCloseTime": "2024-09-11 03:00:00",
         "opened": true
-      }
+      },
+      "menu": [
+        {
+          "dishName": "Spaghetti Carbonara",
+          "price": "₹250",
+          "veg": false
+        },
+        {
+          "dishName": "Fettuccine Alfredo",
+          "price": "₹270",
+          "veg": false
+        }
+      ]
     }
   }
 ]
